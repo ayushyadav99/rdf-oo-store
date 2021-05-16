@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-13 17:33:35 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is opened by 44347@Ayushs-MacBook-Air-3.local
+
+[2021-05-13 17:33:35 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-13 17:36:34 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' has been recovered (tr. 1-2)
+
+[2021-05-13 17:36:34 #2 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is opened by 45955@Ayushs-MacBook-Air-3.local
+
+[2021-05-13 17:36:34 #3 store] 
+Configuration path: ?
+
+[2021-05-13 17:36:35 #4 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is closed by 45955@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-13 17:40:18 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is opened by 48044@Ayushs-MacBook-Air-3.local
+
+[2021-05-13 17:40:18 #2 store] 
+Configuration path: ?
+
+[2021-05-13 17:40:18 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is closed by 48044@Ayushs-MacBook-Air-3.local
+

@@ -1,0 +1,301 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-16 17:58:41 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_people.odb' is opened by 38130@Ayushs-MacBook-Air-3.local
+
+[2021-05-16 17:58:41 #2 store] 
+Configuration path: ?
+
+[2021-05-16 17:58:41 #3 type] 
+Type people.impl.DefaultBroadsheet is not enhanced.
+
+[2021-05-16 17:58:41 #4 type] 
+Type people.impl.DefaultCat is not enhanced.
+
+[2021-05-16 17:58:41 #5 type] 
+Type people.impl.DefaultCow is not enhanced.
+
+[2021-05-16 17:58:41 #6 type] 
+Type people.impl.DefaultDog is not enhanced.
+
+[2021-05-16 17:58:41 #7 type] 
+Type people.impl.DefaultDuck is not enhanced.
+
+[2021-05-16 17:58:41 #8 type] 
+Type people.impl.DefaultElderly is not enhanced.
+
+[2021-05-16 17:58:41 #9 type] 
+Type people.impl.DefaultFemale is not enhanced.
+
+[2021-05-16 17:58:41 #10 type] 
+Type people.impl.DefaultMale is not enhanced.
+
+[2021-05-16 17:58:41 #11 type] 
+Type people.impl.DefaultPerson is not enhanced.
+
+[2021-05-16 17:58:41 #12 type] 
+Type people.impl.DefaultTabloid is not enhanced.
+
+[2021-05-16 17:58:41 #13 type] 
+Type people.impl.DefaultTiger is not enhanced.
+
+[2021-05-16 17:58:41 #14 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_people.odb' is closed by 38130@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-16 18:00:57 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_people.odb' is opened by 39391@Ayushs-MacBook-Air-3.local
+
+[2021-05-16 18:00:57 #2 store] 
+Configuration path: ?
+
+[2021-05-16 18:00:57 #3 type] 
+Type people.impl.DefaultBroadsheet is not enhanced.
+
+[2021-05-16 18:00:57 #4 type] 
+Type people.impl.DefaultCat is not enhanced.
+
+[2021-05-16 18:00:57 #5 type] 
+Type people.impl.DefaultCow is not enhanced.
+
+[2021-05-16 18:00:57 #6 type] 
+Type people.impl.DefaultDog is not enhanced.
+
+[2021-05-16 18:00:57 #7 type] 
+Type people.impl.DefaultDuck is not enhanced.
+
+[2021-05-16 18:00:57 #8 type] 
+Type people.impl.DefaultElderly is not enhanced.
+
+[2021-05-16 18:00:57 #9 type] 
+Type people.impl.DefaultFemale is not enhanced.
+
+[2021-05-16 18:00:57 #10 type] 
+Type people.impl.DefaultMale is not enhanced.
+
+[2021-05-16 18:00:57 #11 type] 
+Type people.impl.DefaultPerson is not enhanced.
+
+[2021-05-16 18:00:57 #12 type] 
+Type people.impl.DefaultTabloid is not enhanced.
+
+[2021-05-16 18:00:58 #13 type] 
+Type people.impl.DefaultTiger is not enhanced.
+
+[2021-05-16 18:00:58 #14 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_people.odb' is closed by 39391@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-16 18:04:44 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_people.odb' is opened by 41362@Ayushs-MacBook-Air-3.local
+
+[2021-05-16 18:04:44 #2 store] 
+Configuration path: ?
+
+[2021-05-16 18:04:44 #3 type] 
+Type people.impl.DefaultBroadsheet is not enhanced.
+
+[2021-05-16 18:04:44 #4 type] 
+Type people.impl.DefaultCat is not enhanced.
+
+[2021-05-16 18:04:44 #5 type] 
+Type people.impl.DefaultCow is not enhanced.
+
+[2021-05-16 18:04:44 #6 type] 
+Type people.impl.DefaultDog is not enhanced.
+
+[2021-05-16 18:04:44 #7 type] 
+Type people.impl.DefaultDuck is not enhanced.
+
+[2021-05-16 18:04:44 #8 type] 
+Type people.impl.DefaultElderly is not enhanced.
+
+[2021-05-16 18:04:44 #9 type] 
+Type people.impl.DefaultFemale is not enhanced.
+
+[2021-05-16 18:04:44 #10 type] 
+Type people.impl.DefaultMale is not enhanced.
+
+[2021-05-16 18:04:44 #11 type] 
+Type people.impl.DefaultPerson is not enhanced.
+
+[2021-05-16 18:04:44 #12 type] 
+Type people.impl.DefaultTabloid is not enhanced.
+
+[2021-05-16 18:04:45 #13 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_people.odb' is closed by 41362@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-16 18:18:06 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_camera.odb' is opened by 48890@Ayushs-MacBook-Air-3.local
+
+[2021-05-16 18:18:06 #2 store] 
+Configuration path: ?
+
+[2021-05-16 18:18:06 #3 type] 
+Type camera.impl.DefaultWindow is not enhanced.
+
+[2021-05-16 18:18:06 #4 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_camera.odb' is closed by 48890@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-16 18:25:21 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_travel.odb' is opened by 53213@Ayushs-MacBook-Air-3.local
+
+[2021-05-16 18:25:21 #2 store] 
+Configuration path: ?
+
+[2021-05-16 18:25:21 #3 type] 
+Type travel.impl.DefaultAccommodationRating is not enhanced.
+
+[2021-05-16 18:25:21 #4 type] 
+Type travel.impl.DefaultBeach is not enhanced.
+
+[2021-05-16 18:25:21 #5 type] 
+Type travel.impl.DefaultCapital is not enhanced.
+
+[2021-05-16 18:25:21 #6 type] 
+Type travel.impl.DefaultCity is not enhanced.
+
+[2021-05-16 18:25:21 #7 type] 
+Type travel.impl.DefaultLuxuryHotel is not enhanced.
+
+[2021-05-16 18:25:21 #8 type] 
+Type travel.impl.DefaultNationalPark is not enhanced.
+
+[2021-05-16 18:25:21 #9 type] 
+Type travel.impl.DefaultRuralArea is not enhanced.
+
+[2021-05-16 18:25:22 #10 type] 
+Type travel.impl.DefaultTown is not enhanced.
+
+[2021-05-16 18:25:22 #11 type] 
+Type travel.impl.DefaultAccommodation is not enhanced.
+
+[2021-05-16 18:25:22 #12 type] 
+Type travel.impl.DefaultDestination is not enhanced.
+
+[2021-05-16 18:25:22 #13 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_travel.odb' is closed by 53213@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-16 21:38:29 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_travel.odb' is opened by 92700@Ayushs-MacBook-Air-3.local
+
+[2021-05-16 21:38:29 #2 store] 
+Configuration path: ?
+
+[2021-05-16 21:38:30 #3 type] 
+Type travel.impl.DefaultAccommodationRating is not enhanced.
+
+[2021-05-16 21:38:30 #4 type] 
+Type travel.impl.DefaultBeach is not enhanced.
+
+[2021-05-16 21:38:30 #5 type] 
+Type travel.impl.DefaultCapital is not enhanced.
+
+[2021-05-16 21:38:30 #6 type] 
+Type travel.impl.DefaultCity is not enhanced.
+
+[2021-05-16 21:38:30 #7 type] 
+Type travel.impl.DefaultLuxuryHotel is not enhanced.
+
+[2021-05-16 21:38:30 #8 type] 
+Type travel.impl.DefaultNationalPark is not enhanced.
+
+[2021-05-16 21:38:30 #9 type] 
+Type travel.impl.DefaultRuralArea is not enhanced.
+
+[2021-05-16 21:38:30 #10 type] 
+Type travel.impl.DefaultTown is not enhanced.
+
+[2021-05-16 21:38:30 #11 type] 
+Type travel.impl.DefaultAccommodation is not enhanced.
+
+[2021-05-16 21:38:30 #12 type] 
+Type travel.impl.DefaultDestination is not enhanced.
+
+[2021-05-16 21:38:30 #13 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_travel.odb' is closed by 92700@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-16 21:43:16 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_travel.odb' is opened by 95311@Ayushs-MacBook-Air-3.local
+
+[2021-05-16 21:43:16 #2 store] 
+Configuration path: ?
+
+[2021-05-16 21:43:16 #3 type] 
+Type travel.impl.DefaultAccommodationRating is not enhanced.
+
+[2021-05-16 21:43:16 #4 type] 
+Type travel.impl.DefaultBeach is not enhanced.
+
+[2021-05-16 21:43:16 #5 type] 
+Type travel.impl.DefaultCapital is not enhanced.
+
+[2021-05-16 21:43:16 #6 type] 
+Type travel.impl.DefaultCity is not enhanced.
+
+[2021-05-16 21:43:16 #7 type] 
+Type travel.impl.DefaultLuxuryHotel is not enhanced.
+
+[2021-05-16 21:43:16 #8 type] 
+Type travel.impl.DefaultNationalPark is not enhanced.
+
+[2021-05-16 21:43:16 #9 type] 
+Type travel.impl.DefaultRuralArea is not enhanced.
+
+[2021-05-16 21:43:16 #10 type] 
+Type travel.impl.DefaultTown is not enhanced.
+
+[2021-05-16 21:43:16 #11 type] 
+Type travel.impl.DefaultAccommodation is not enhanced.
+
+[2021-05-16 21:43:16 #12 type] 
+Type travel.impl.DefaultDestination is not enhanced.
+
+[2021-05-16 21:43:16 #13 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_travel.odb' is closed by 95311@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-16 21:43:34 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_travel1.odb' is opened by 95407@Ayushs-MacBook-Air-3.local
+
+[2021-05-16 21:43:34 #2 store] 
+Configuration path: ?
+
+[2021-05-16 21:43:34 #3 type] 
+Type travel.impl.DefaultAccommodationRating is not enhanced.
+
+[2021-05-16 21:43:34 #4 type] 
+Type travel.impl.DefaultBeach is not enhanced.
+
+[2021-05-16 21:43:34 #5 type] 
+Type travel.impl.DefaultCapital is not enhanced.
+
+[2021-05-16 21:43:34 #6 type] 
+Type travel.impl.DefaultCity is not enhanced.
+
+[2021-05-16 21:43:34 #7 type] 
+Type travel.impl.DefaultLuxuryHotel is not enhanced.
+
+[2021-05-16 21:43:34 #8 type] 
+Type travel.impl.DefaultNationalPark is not enhanced.
+
+[2021-05-16 21:43:34 #9 type] 
+Type travel.impl.DefaultAccommodation is not enhanced.
+
+[2021-05-16 21:43:34 #10 type] 
+Type travel.impl.DefaultDestination is not enhanced.
+
+[2021-05-16 21:43:34 #11 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_travel1.odb' is closed by 95407@Ayushs-MacBook-Air-3.local
+

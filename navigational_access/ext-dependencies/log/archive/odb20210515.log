@@ -1,0 +1,325 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 11:07:48 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is opened by 30881@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 11:07:48 #2 store] 
+Configuration path: ?
+
+[2021-05-15 11:07:48 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is closed by 30881@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 11:08:32 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is opened by 31256@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 11:08:32 #2 store] 
+Configuration path: ?
+
+[2021-05-15 11:08:32 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is closed by 31256@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 11:15:03 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/SemWeb_OODB/jars/db/college_db.odb' is opened by 35272@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 11:15:03 #2 store] 
+Configuration path: ?
+
+[2021-05-15 11:15:03 #3 type] 
+Type ProtegeGenCode.CollegeProtege.impl.DefaultProfessor is not enhanced.
+
+[2021-05-15 11:15:03 #4 type] 
+Type ProtegeGenCode.CollegeProtege.impl.DefaultIMTech is not enhanced.
+
+[2021-05-15 11:15:03 #5 type] 
+Type ProtegeGenCode.CollegeProtege.impl.DefaultCollege is not enhanced.
+
+[2021-05-15 11:15:03 #6 type] 
+Type ProtegeGenCode.CollegeProtege.impl.DefaultCourse is not enhanced.
+
+[2021-05-15 11:15:03 #7 type] 
+Type ProtegeGenCode.CollegeProtege.impl.DefaultMTech is not enhanced.
+
+[2021-05-15 11:15:03 #8 type] 
+Type ProtegeGenCode.CollegeProtege.impl.DefaultStudent is not enhanced.
+
+[2021-05-15 11:15:04 #9 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/SemWeb_OODB/jars/db/college_db.odb' is closed by 35272@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 12:06:08 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is opened by 62517@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 12:06:08 #2 store] 
+Configuration path: ?
+
+[2021-05-15 12:06:08 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is closed by 62517@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 12:19:50 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is opened by 70513@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 12:19:50 #2 store] 
+Configuration path: ?
+
+[2021-05-15 12:19:50 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is closed by 70513@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 12:20:09 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db1.odb' is opened by 70700@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 12:20:09 #2 store] 
+Configuration path: ?
+
+[2021-05-15 12:20:09 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db1.odb' is closed by 70700@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 12:20:45 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db1.odb' is opened by 70994@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 12:20:45 #2 store] 
+Configuration path: ?
+
+[2021-05-15 12:20:46 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db1.odb' is closed by 70994@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 12:21:39 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is opened by 71476@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 12:21:39 #2 store] 
+Configuration path: ?
+
+[2021-05-15 12:21:40 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is closed by 71476@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 12:22:02 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is opened by 71670@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 12:22:02 #2 store] 
+Configuration path: ?
+
+[2021-05-15 12:22:02 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/pizza_db.odb' is closed by 71670@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 12:39:04 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is opened by 81379@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 12:39:04 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 12:58:47 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' has been recovered (tr. 1-2)
+
+[2021-05-15 12:58:47 #2 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is opened by 91891@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 12:58:47 #3 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 13:01:00 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is opened by 93126@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 13:01:00 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 13:04:22 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is opened by 95008@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 13:04:22 #2 store] 
+Configuration path: ?
+
+[2021-05-15 13:04:23 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is closed by 95008@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 13:14:12 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_db.odb' is opened by 335@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 13:14:12 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 13:14:51 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_db.odb' has been recovered (tr. 1-2)
+
+[2021-05-15 13:14:51 #2 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_db.odb' is opened by 691@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 13:14:51 #3 store] 
+Configuration path: ?
+
+[2021-05-15 13:14:51 #4 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_db.odb' is closed by 691@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 13:16:02 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is opened by 1268@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 13:16:02 #2 store] 
+Configuration path: ?
+
+[2021-05-15 13:16:02 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is closed by 1268@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 13:20:33 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is opened by 3733@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 13:20:33 #2 store] 
+Configuration path: ?
+
+[2021-05-15 13:20:33 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is closed by 3733@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 13:26:19 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is opened by 6759@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 13:26:19 #2 store] 
+Configuration path: ?
+
+[2021-05-15 13:26:20 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is closed by 6759@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 13:29:32 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is opened by 8396@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 13:29:32 #2 store] 
+Configuration path: ?
+
+[2021-05-15 13:29:33 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/college_ayush_db.odb' is closed by 8396@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 13:31:21 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/new_pizza.odb' is opened by 9317@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 13:31:21 #2 store] 
+Configuration path: ?
+
+[2021-05-15 13:31:21 #3 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/new_pizza.odb' is closed by 9317@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 13:34:28 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/new_pizza.odb' is opened by 10823@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 13:34:28 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 14:37:12 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/new_pizza.odb' is opened by 45150@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 14:37:12 #2 store] 
+Configuration path: ?
+
+[2021-05-15 14:37:13 #3 type] 
+Type protegeGenCode.pizza.impl.DefaultCountry is not enhanced.
+
+[2021-05-15 14:37:13 #4 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/new_pizza.odb' is closed by 45150@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 14:44:11 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/new_pizza_updated.odb' is opened by 47850@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 14:44:11 #2 store] 
+Configuration path: ?
+
+[2021-05-15 14:44:12 #3 type] 
+Type protegeGenCode.pizza.impl.DefaultCountry is not enhanced.
+
+[2021-05-15 14:44:12 #4 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/new_pizza_updated.odb' is closed by 47850@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 14:47:27 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/new_pizza_updated1.odb' is opened by 49639@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 14:47:27 #2 store] 
+Configuration path: ?
+
+[2021-05-15 14:47:28 #3 type] 
+Type protegeGenCode.pizza.impl.DefaultCountry is not enhanced.
+
+[2021-05-15 14:47:28 #4 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/new_pizza_updated1.odb' is closed by 49639@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 14:50:22 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/new_pizza_updated2.odb' is opened by 51175@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 14:50:22 #2 store] 
+Configuration path: ?
+
+[2021-05-15 14:50:23 #3 type] 
+Type protegeGenCode.pizza.impl.DefaultCountry is not enhanced.
+
+[2021-05-15 14:50:23 #4 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/new_pizza_updated2.odb' is closed by 51175@Ayushs-MacBook-Air-3.local
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-15 15:01:44 #1 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_college_latest.odb' is opened by 57810@Ayushs-MacBook-Air-3.local
+
+[2021-05-15 15:01:44 #2 store] 
+Configuration path: ?
+
+[2021-05-15 15:01:44 #3 type] 
+Type protege_gen.CollegeProtege.impl.DefaultIMTech is not enhanced.
+
+[2021-05-15 15:01:44 #4 type] 
+Type protege_gen.CollegeProtege.impl.DefaultCollege is not enhanced.
+
+[2021-05-15 15:01:44 #5 type] 
+Type protege_gen.CollegeProtege.impl.DefaultCourse is not enhanced.
+
+[2021-05-15 15:01:44 #6 type] 
+Type protege_gen.CollegeProtege.impl.DefaultMTech is not enhanced.
+
+[2021-05-15 15:01:44 #7 type] 
+Type protege_gen.CollegeProtege.impl.DefaultProfessor is not enhanced.
+
+[2021-05-15 15:01:44 #8 type] 
+Type protege_gen.CollegeProtege.impl.DefaultStudent is not enhanced.
+
+[2021-05-15 15:01:44 #9 store] 
+Database '/Users/ayushyadav/Work/Semesters/Semester_8/Data_Modelling/project/RDF-2/rdf/target/ayush_college_latest.odb' is closed by 57810@Ayushs-MacBook-Air-3.local
+
